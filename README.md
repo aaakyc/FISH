@@ -14,6 +14,11 @@
 
 4.多种模板 可伪造成空投 伪造成各种网站，发卡网、转账界面
 
+![QQ20240824-112858](https://github.com/user-attachments/assets/3d652606-92f4-476a-a34c-22cf72afeb2a)
+
+![QQ20240824-125111](https://github.com/user-attachments/assets/e780777e-6a50-4a87-ac60-e5811a3cfba8)
+
+
 ![QQ20240824-125122](https://github.com/user-attachments/assets/0bb0dd23-bedc-4a08-897a-4d8a2cb3672d)
 
 
