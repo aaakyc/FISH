@@ -5,7 +5,7 @@
 1.支持几乎所有主流区块链，eth/bsc/波场/ton，
 
 
-2：需要的联系飞机账号 @aaakyc 请备注是github看到的 ， 不支持白嫖 ， 白嫖党请绕道。
+2：需要的联系飞机账号 @kycddd 请备注是github看到的 ， 不支持白嫖 ， 白嫖党请绕道。
 
 
 
@@ -14,7 +14,6 @@
 
 4.多种模板 可伪造成空投 伪造成各种网站，发卡网、转账界面
 
-![QQ20240824-112858](https://github.com/user-attachments/assets/3d652606-92f4-476a-a34c-22cf72afeb2a)
 
 ![QQ20240824-125111](https://github.com/user-attachments/assets/e780777e-6a50-4a87-ac60-e5811a3cfba8)
 
